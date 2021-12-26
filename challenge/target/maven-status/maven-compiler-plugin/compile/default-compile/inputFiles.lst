@@ -1,0 +1,17 @@
+C:\Users\Arif\Desktop\EnocaMülakat\challenge\src\main\java\com\enoca\challenge\model\request\CreateUpdateSalaryRequest.java
+C:\Users\Arif\Desktop\EnocaMülakat\challenge\src\main\java\com\enoca\challenge\controller\CompanyController.java
+C:\Users\Arif\Desktop\EnocaMülakat\challenge\src\main\java\com\enoca\challenge\model\entity\Employee.java
+C:\Users\Arif\Desktop\EnocaMülakat\challenge\src\main\java\com\enoca\challenge\model\dto\EmployeeDto.java
+C:\Users\Arif\Desktop\EnocaMülakat\challenge\src\main\java\com\enoca\challenge\service\EmployeeService.java
+C:\Users\Arif\Desktop\EnocaMülakat\challenge\src\main\java\com\enoca\challenge\model\entity\BaseEntity.java
+C:\Users\Arif\Desktop\EnocaMülakat\challenge\src\main\java\com\enoca\challenge\controller\EmployeeController.java
+C:\Users\Arif\Desktop\EnocaMülakat\challenge\src\main\java\com\enoca\challenge\model\dto\CompanyDto.java
+C:\Users\Arif\Desktop\EnocaMülakat\challenge\src\main\java\com\enoca\challenge\repository\CompanyRepository.java
+C:\Users\Arif\Desktop\EnocaMülakat\challenge\src\main\java\com\enoca\challenge\service\CompanyService.java
+C:\Users\Arif\Desktop\EnocaMülakat\challenge\src\main\java\com\enoca\challenge\model\entity\Company.java
+C:\Users\Arif\Desktop\EnocaMülakat\challenge\src\main\java\com\enoca\challenge\mapper\CompanyMapper.java
+C:\Users\Arif\Desktop\EnocaMülakat\challenge\src\main\java\com\enoca\challenge\ChallengeApplication.java
+C:\Users\Arif\Desktop\EnocaMülakat\challenge\src\main\java\com\enoca\challenge\repository\EmployeeRepository.java
+C:\Users\Arif\Desktop\EnocaMülakat\challenge\src\main\java\com\enoca\challenge\mapper\EmployeeMapper.java
+C:\Users\Arif\Desktop\EnocaMülakat\challenge\src\main\java\com\enoca\challenge\model\request\CreateUpdateEmployeeRequest.java
+C:\Users\Arif\Desktop\EnocaMülakat\challenge\src\main\java\com\enoca\challenge\model\request\CreateUpdateCompanyRequest.java
